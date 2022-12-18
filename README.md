@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer in progress
 -------------------------------
 
-Have been studying front-end development on my own for a while now, love the challenges it brings and satisfaction when the code works. Eager to fill my portfolio during the winter time and find a great work place in which to be a part of a team.
+Have been studying front-end development on my own for a while now, love the challenges it brings and satisfaction when the code works. Eager to fill my portfolio during the winter time and find a great work place in which to be a valuable part of a team.
 
 * 🌍  I'm based in Riga, Latvia
 * ✉️  You can contact me at [elvirakopstala@gmail.com](mailto:elvirakopstala@gmail.com)
