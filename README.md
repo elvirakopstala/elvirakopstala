@@ -9,8 +9,7 @@ Have been studying front-end development on my own for a while now, love the cha
 * 🌍  I'm based in Riga, Latvia
 * ✉️  You can contact me at [elvirakopstala@gmail.com](mailto:elvirakopstala@gmail.com)
 * 🧠  I'm learning React
-* ⚡  I enjoy running, fiction reading, photography and food (a lot)
-
+* ⚡  I enjoy running, fiction reading, photography and food
 ### Skills
 
 
